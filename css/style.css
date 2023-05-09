@@ -2,3 +2,30 @@ body{
     font-family: 'Open Sans', sans-serif !important;
 
 }
+.banner-container{
+    background: #cacaca;
+}
+.banner-column{
+    background-color: #8d8d8d;
+}
+.about-container{
+    background-color: #008d8d;
+}
+.education-container{
+    background-color: #f3e5e5;
+}
+.circle{
+    background-color: #fb857f;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-section{
+    background: rgb(25, 190, 202);
+}
+a{
+    text-decoration: none;
+}
+.card-hover:hover{
+    opacity: 0.2;
+}
